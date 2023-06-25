@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "name":"pop",
+            "email":"pop@gmail.com"
+        },
+        {
+            "name":"mohini",
+            "email":"mohini@gmail.com"
+        }
+    ]
+}
